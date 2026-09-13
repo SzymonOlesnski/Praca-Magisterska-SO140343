@@ -15,8 +15,8 @@ W badaniu porównuje się pięć podejść prognostycznych:
 1. model sezonowo naiwny (Seasonal Naive),
 2. regresję liniową,
 3. XGBoost,
-4. LLM-1 — duży model językowy wykorzystujący wyłącznie historię danych liczbowych,
-5. LLM-2 — ten sam model językowy wykorzystujący historię danych liczbowych oraz oficjalny kontekst tekstowy publikowany przez przedsiębiorstwa.
+4. LLM-1 - duży model językowy wykorzystujący wyłącznie historię danych liczbowych,
+5. LLM-2 - ten sam model językowy wykorzystujący historię danych liczbowych oraz oficjalny kontekst tekstowy publikowany przez przedsiębiorstwa.
 
 ## Badana próba
 
@@ -33,7 +33,7 @@ Analiza obejmuje 10 spółek:
 - PGE,
 - Grupa Kęty.
 
-Dane kwartalne obejmują lata 2015–2024. Okres testowy obejmuje lata 2023–2024, czyli 8 kwartałów dla każdej spółki i łącznie 80 obserwacji testowych dla każdej prognozowanej zmiennej.
+Dane kwartalne obejmują lata 2015-2024. Okres testowy obejmuje lata 2023-2024, czyli 8 kwartałów dla każdej spółki i łącznie 80 obserwacji testowych dla każdej prognozowanej zmiennej.
 
 ## Zawartość repozytorium
 
